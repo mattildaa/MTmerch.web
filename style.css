@@ -1,0 +1,103 @@
+#cabecera{
+    text-align: center;
+    background-color: #758ac6;
+    color: rgb(241, 241, 241);
+}
+#banner {
+    background-image: url(img/banner.png);
+    
+    width: 1700px;
+    height: 250px;
+
+}
+#pv { background-color: #bbcaf3;
+    color: rgb(52, 52, 158);
+
+}
+#body{
+    background-image: url(img/fondodepag.png);
+    background-size: contain ;
+}
+#lala {
+    background-image:url(img/tazaazul.jpeg) ;
+    width: 161px;
+    margin-right: 60px;
+}
+#koko {
+    background-image:url(img/tazaverde.jpeg);
+    width: 150px;
+    margin-right: 60px;
+}
+#lele {
+    background-image:url(img/tazaverde.jpeg);
+    width: 161px;
+}
+.lc{
+   
+    background-color: #bbcaf3;
+    color: rgb(52, 52, 158);
+}
+.rp{
+   
+    background-color: rgb(187, 202, 243);
+    color: rgb(52, 52, 158);
+}
+#lolo {
+    background-image:url(img/BUZITO.jpeg);
+    width: 150px;
+    margin-right: 60px;
+}
+#kuku {
+    background-image: url(img/MEDIAS.jpeg);
+    width: 150px;
+    margin-right: 60px;
+}
+#lili {
+    background-image: url(img/REMERA.jpeg);
+    width: 150px;
+    margin-right: 60px;
+
+}
+.tt {
+    background-color: rgb(187, 202, 243);
+    color: rgb(52, 52, 158);
+}
+#toto {
+    background-image: url(img/TOTELOVE.jpeg);
+    width: 150px;
+    margin-right: 60px;
+}
+#tutu {
+    background-image: url(img/TOTE3.jpeg);
+    width: 140px;
+    margin-right: 60px;
+}
+#titi {
+    background-image: url(img/TOTE2.jpeg);
+    width: 150px;
+    margin-right: 60px;
+}
+.lb {
+    background-color: rgb(187, 202, 243);
+    color: rgb(52, 52, 158);
+}
+#bibi {
+    background-image: url(img/cartu.jpeg);
+    width: 150px;
+    margin-right: 60px;
+}
+#bubu {
+    background-image: url(img/calcu.jpeg);
+    width: 138px;
+    margin-right: 60px;
+}
+#bobo {
+    background-image: url(img/cuaderno.jpeg);
+    width: 150px;
+    margin-right: 60px;
+}
+#tuta {
+    height: 200px;
+    width: 600px;
+    margin-left: 400px;
+}
